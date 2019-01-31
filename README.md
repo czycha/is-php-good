@@ -1,7 +1,7 @@
 is-php-good
 ===
 
-Run this function to check if PHP is good.
+Run this function to check if PHP is a good language.
 
 ## Installation
 
